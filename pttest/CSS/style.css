@@ -1,0 +1,61 @@
+body {
+    background-color: #041235;
+    font-family: 'Courier New', Courier, monospace;
+    color: #8393bcf3;
+}
+.nav_bar {
+    font-size: 25px;
+    font-weight: bold; 
+}
+.container {
+    margin-top: 30px;
+}
+.row {
+}
+.col-8 {
+}
+.col-4 {
+}
+.col-3.nav_logo {
+    background: url(../image/ru.png) no-repeat center center;
+    background-size: 90%;
+    width: 60px;
+    height: 60px;
+}
+.col-9 {
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.photo {
+    background: url(../image/ST.jpg) no-repeat center center;
+    background-size: 120%;
+    width: 200px;
+    height: 200px;
+}
+.title_photo { 
+    /*background: url(../image/site.jpg) no-repeat center center;
+    background-size: 700%;
+    width: 700px;
+    height: 600px;*/ 
+}
+.button_js {
+    text-align: center;
+}
+
+#myButton {
+    border: none;
+    border-radius: 20px;
+    width: 150px;
+    height: 50px;
+    background-color: #0c428ef3;
+    color:#fffffff3;
+    font-weight: bold;
+}
+
+#demo img {
+    margin-top: 20px;
+    width: 50%;
+}
